@@ -1,0 +1,20 @@
+{
+  "name": "lab-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "8a.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.1",
+    "express-validator": "^3.1.2",
+    "mongodb": "^2.2.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 6a.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
